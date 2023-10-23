@@ -1,4 +1,24 @@
 /* Common styles for menu */
+/* CSS for the header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center content horizontally */
+    line-height: 1.5; /* Adjust the line-height as needed */
+}
+
+.centered-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: 20px; /* Add some spacing between the text and logo */
+}
+
 
 body {
     font-family: Arial, sans-serif;
