@@ -297,6 +297,134 @@
         "targetWord": "straw"
       }
     ]
+  },
+  "Year 3": {
+    "Lesson 1": [
+      {
+        "sentence": "The mountain is very high.",
+        "targetWord": "high"
+      },
+      {
+        "sentence": "We have school every day.",
+        "targetWord": "every"
+      },
+      {
+        "sentence": "The park is near our house.",
+        "targetWord": "near"
+      },
+      {
+        "sentence": "The sun sets in the west.",
+        "targetWord": "west"
+      },
+      {
+        "sentence": "She wore a beautiful dress to the party.",
+        "targetWord": "dress"
+      },
+      {
+        "sentence": "That was the best movie I've ever seen.",
+        "targetWord": "best"
+      },
+      {
+        "sentence": "I'll meet you at the park next Saturday.",
+        "targetWord": "next"
+      },
+      {
+        "sentence": "Is there anything else you need?",
+        "targetWord": "else"
+      },
+      {
+        "sentence": "I checked my homework for mistakes.",
+        "targetWord": "checked"
+      },
+      {
+        "sentence": "My grandparents live in a grand house.",
+        "targetWord": "grand"
+      }
+    ],
+    "Lesson 2": [
+      {
+        "sentence": "The park is between two tall buildings.",
+        "targetWord": "between"
+      },
+      {
+        "sentence": "I have my very own toy.",
+        "targetWord": "own"
+      },
+      {
+        "sentence": "The team won because of a strong base.",
+        "targetWord": "base"
+      },
+      {
+        "sentence": "Our country has beautiful landscapes.",
+        "targetWord": "country"
+      },
+      {
+        "sentence": "I'm going to plant flowers in the garden.",
+        "targetWord": "plant"
+      },
+      {
+        "sentence": "Be careful not to slip on the wet floor.",
+        "targetWord": "slip"
+      },
+      {
+        "sentence": "We'll have lunch at the park today.",
+        "targetWord": "lunch"
+      },
+      {
+        "sentence": "There were ten ducks in the pond this morning.",
+        "targetWord": "pond"
+      },
+      {
+        "sentence": "I need to calculate the total sum.",
+        "targetWord": "calculate"
+      },
+      {
+        "sentence": "We'll sit in the front row at the concert.",
+        "targetWord": "front"
+      }
+    ],
+    "Lesson 3": [
+      {
+        "sentence": "I want to save my money to buy a toy.",
+        "targetWord": "save"
+      },
+      {
+        "sentence": "Can you keep your room tidy?",
+        "targetWord": "keep"
+      },
+      {
+        "sentence": "My father is coming to pick me up.",
+        "targetWord": "father"
+      },
+      {
+        "sentence": "Is it safe to cross the road?",
+        "targetWord": "safe"
+      },
+      {
+        "sentence": "I got a good grade for my test.",
+        "targetWord": "grade"
+      },
+      {
+        "sentence": "We reached the top of the hill.",
+        "targetWord": "reached"
+      },
+      {
+        "sentence": "We will raise our hands to answer questions.",
+        "targetWord": "raise"
+      },
+      {
+        "sentence": "Do you scream when you see a big spider?",
+        "targetWord": "scream"
+      },
+      {
+        "sentence": "Math is easy when you practice.",
+        "targetWord": "easy"
+      },
+      {
+        "sentence": "We love to travel and explore new places.",
+        "targetWord": "travel"
+      }
+    ]
   }
 }
 
