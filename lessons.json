@@ -1,0 +1,198 @@
+{
+  "Year 1": {
+    "Lesson 1": [
+      {
+        "sentence": "Can you give me the ball, please?",
+        "targetWord": "the"
+      },
+      {
+        "sentence": "The chair is made of wood.",
+        "targetWord": "of"
+      },
+      {
+        "sentence": "I have a brother and a sister.",
+        "targetWord": "and"
+      },
+      {
+        "sentence": "That is not nice.",
+        "targetWord": "that"
+      },
+      {
+        "sentence": "I have a cat at my house.",
+        "targetWord": "cat"
+      },
+      {
+        "sentence": "My dog likes to lay down on his mat.",
+        "targetWord": "mat"
+      },
+      {
+        "sentence": "The boy sat on his chair.",
+        "targetWord": "sat"
+      },
+      {
+        "sentence": "You can not wear a hat in the classroom.",
+        "targetWord": "hat"
+      },
+      {
+        "sentence": "The rat was looking for food.",
+        "targetWord": "rat"
+      },
+      {
+        "sentence": "The bat hang upside down in the cave.",
+        "targetWord": "bat"
+      }
+    ],
+    "Lesson 2": [
+      {
+        "sentence": "I will go to school today.",
+        "targetWord": "to"
+      },
+      {
+        "sentence": "The bird is in its nest.",
+        "targetWord": "in"
+      },
+      {
+        "sentence": "The teacher is very nice.",
+        "targetWord": "is"
+      },
+      {
+        "sentence": "Can you help me please?",
+        "targetWord": "you"
+      },
+      {
+        "sentence": "There is a man at the door.",
+        "targetWord": "man"
+      },
+      {
+        "sentence": "I don't know if I can sing that song.",
+        "targetWord": "can"
+      },
+      {
+        "sentence": "The student ran on the playground.",
+        "targetWord": "ran"
+      },
+      {
+        "sentence": "There is a pan on the stove.",
+        "targetWord": "pan"
+      },
+      {
+        "sentence": "It's hot. Can you turn on the fan for me?",
+        "targetWord": "fan"
+      },
+      {
+        "sentence": "The van will bring me to school.",
+        "targetWord": "van"
+      }
+    ],
+  
+    "Lesson 3": [
+      {
+        "sentence": "My dog is bigger than my cat.",
+        "targetWord": "than"
+      },
+      {
+        "sentence": "Where is my book? I can't find it .",
+        "targetWord": "it"
+      },
+      {
+        "sentence": "This is my brother. He is nice.",
+        "targetWord": "he"
+      },
+      {
+        "sentence": "This is my sister. She is sweet.",
+        "targetWord": "she"
+      },
+      {
+        "sentence": "I was at school yesterday.",
+        "targetWord": "was"
+      },
+      {
+        "sentence": "The map tells us where to go.",
+        "targetWord": "map"
+      },
+      {
+        "sentence": "I wear a cap when it is sunny.",
+        "targetWord": "cap"
+      },
+      {
+        "sentence": "My dad takes a nap after work.",
+        "targetWord": "nap"
+      },
+      {
+        "sentence": "This tap has hot and cold water.",
+        "targetWord": "tap"
+      },
+      {
+        "sentence": "The boys rap a new song.",
+        "targetWord": "rap"
+      }
+    ],
+    "Lesson 4": [
+      {
+        "sentence": "I have a snack for my dog.",
+        "targetWord": "for"
+      },
+      {
+        "sentence": "The book is on my desk.",
+        "targetWord": "on"
+      },
+      {
+        "sentence": "We are very happy.",
+        "targetWord": "are"
+      },
+      {
+        "sentence": "I am as tall as my sister.",
+        "targetWord": "as"
+      },
+      {
+        "sentence": "Can we go back home?",
+        "targetWord": "back"
+      },
+      {
+        "sentence": "We bought a new sack of rice.",
+        "targetWord": "sack"
+      },
+      {
+        "sentence": "I wear black shoes to school.",
+        "targetWord": "black"
+      },
+      {
+        "sentence": "I like to eat a snack now.",
+        "targetWord": "snack"
+      },
+      {
+        "sentence": "Can you stack those books?",
+        "targetWord": "stack"
+      },
+      {
+        "sentence": "Please pack your bag.",
+        "targetWord": "pack"
+      }
+    ]
+  },
+  "Year 2": {
+    "Lesson 1": [
+      {
+        "sentence": "Sentence for Year 2 Lesson 1, Word 1.",
+        "targetWord": "word1"
+      },
+      {
+        "sentence": "Sentence for Year 2 Lesson 1, Word 2.",
+        "targetWord": "word2"
+      }
+    ],
+    "Lesson 2": [
+      {
+        "sentence": "Sentence for Year 2 Lesson 2, Word 1.",
+        "targetWord": "word1"
+      },
+      {
+        "sentence": "Sentence for Year 2 Lesson 2, Word 2.",
+        "targetWord": "word2"
+      }
+    ]
+  }
+}
+
+
+  

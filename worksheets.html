@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesprogram.css"> <!-- Include your stylesheet -->
+    <title>Worksheets</title>
+</head>
+<body>
+    <div class="full-page-container">
+        <div class="container">
+            <h1>Choose a Worksheet</h1>
+            <div class="worksheet-container">
+                <div class="worksheet-option" id="worksheet1">
+                    <img src="/images/worksheet1.png" alt="Worksheet 1">
+                </div>
+                <!-- You can add more worksheet options here as needed -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Function to get URL parameters
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                const results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
+
+            // Get the year and lesson from URL parameters
+            const selectedYear = getUrlParameter('year');
+            const selectedLesson = getUrlParameter('lesson');
+
+            // Use these parameters to construct links for the worksheets
+            const worksheet1Link = `/worksheets/worksheet1.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            const worksheet2Link = `/worksheets/worksheet2.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            // Add more worksheets as needed
+
+            // Add click event listeners to the worksheet options to navigate to the worksheets
+            document.getElementById('worksheet1').addEventListener('click', () => {
+                window.location.href = worksheet1Link;
+            });
+            // Add more listeners for other worksheets if needed
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+

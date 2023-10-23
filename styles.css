@@ -1,0 +1,120 @@
+/* Common styles for menu */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Change to left for the menu */
+}
+
+/* Styles specific to the menu */
+.fixed-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0; /* Center horizontally */
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: left; /* Change to left for the menu */
+    z-index: 1;
+    overflow-y: auto; /* Add vertical scrollbar if needed */
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.full-page-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+}
+
+.content {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.sentence {
+    font-size: 18px;
+}
+
+.userWord {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.checkButton {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.hidden {
+    color: transparent;
+}
+
+.hidden-word {
+    color: transparent;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#lessonIframe {
+    width: 100%;
+    height: calc(100vh - 40px); /* Use the viewport height minus the margin-top */
+    border: none;
+}
+
+.audio-button {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    cursor: pointer; /* Add a pointer cursor to indicate it's clickable */
+    margin-right: 10px; /* Add space to the right of the audio button */
+}
+
+.exercise-number {
+    font-size: 25px; /* Adjust the size as needed */
+    margin-right: 5px; /* Adjust the space between the number and audio button */
+    content: "."; /* Add a '.' after the number */
+}
+
+/* Add styles for the check images */
+.check-image {
+    width: 20px; /* Adjust the size as needed */
+    height: 20px; /* Adjust the size as needed */
+    margin-left: 10px; /* Add space between the input and the images */
+}
+
+/* Styles for the .tick-cross-hidden class */
+.tick-cross-hidden {
+    display: none;
+}
+
+
