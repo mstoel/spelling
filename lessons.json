@@ -173,22 +173,128 @@
   "Year 2": {
     "Lesson 1": [
       {
-        "sentence": "Sentence for Year 2 Lesson 1, Word 1.",
-        "targetWord": "word1"
+        "sentence": "The dog jump over the log.",
+        "targetWord": "over"
       },
       {
-        "sentence": "Sentence for Year 2 Lesson 1, Word 2.",
-        "targetWord": "word2"
+        "sentence": "My dad bought a new car.",
+        "targetWord": "new"
+      },
+      {
+        "sentence": "You can take only one cookie.",
+        "targetWord": "take"
+      },
+      {
+        "sentence": "I am the only boy in my group.",
+        "targetWord": "only"
+      },
+      {
+        "sentence": "My mother goes to the park to run.",
+        "targetWord": "park"
+      },
+      {
+        "sentence": "It is hard to study all the words.",
+        "targetWord": "hard"
+      },
+      {
+        "sentence": "In this barn there are cows, horses and sheep.",
+        "targetWord": "barn"
+      },
+      {
+        "sentence": "I write the word on a card .",
+        "targetWord": "card"
+      },
+      {
+        "sentence": "The big shark ate a seal.",
+        "targetWord": "shark"
+      },
+      {
+        "sentence": "It is dark at night.",
+        "targetWord": "dark"
       }
     ],
     "Lesson 2": [
       {
-        "sentence": "Sentence for Year 2 Lesson 2, Word 1.",
-        "targetWord": "word1"
+        "sentence": "My little sister is four years old.",
+        "targetWord": "little"
       },
       {
-        "sentence": "Sentence for Year 2 Lesson 2, Word 2.",
-        "targetWord": "word2"
+        "sentence": "My dad goes to work at seven o'clock.",
+        "targetWord": "work"
+      },
+      {
+        "sentence": "I know how to write this word.",
+        "targetWord": "know"
+      },
+      {
+        "sentence": "I have never been to this place before.",
+        "targetWord": "place"
+      },
+      {
+        "sentence": "I am seven years old.",
+        "targetWord": "years"
+      },
+      {
+        "sentence": "The rain makes me wet.",
+        "targetWord": "rain"
+      },
+      {
+        "sentence": "My mom sent a letter in the mail .",
+        "targetWord": "mail"
+      },
+      {
+        "sentence": "Can you wait for me?",
+        "targetWord": "wait"
+      },
+      {
+        "sentence": "I paint my bedroom blue.",
+        "targetWord": "paint"
+      },
+      {
+        "sentence": "The boat will sail on the water.",
+        "targetWord": "sail"
+      }
+    ],
+    "Lesson 3": [
+      {
+        "sentence": "I live in a big house.",
+        "targetWord": "live"
+      },
+      {
+        "sentence": "Can you help me with my homework?",
+        "targetWord": "me"
+      },
+      {
+        "sentence": "Ice cream is cool and delicious.",
+        "targetWord": "cool"
+      },
+      {
+        "sentence": "Dad will give me a gift for my birthday.",
+        "targetWord": "give"
+      },
+      {
+        "sentence": "The red car is the most beautiful.",
+        "targetWord": "most"
+      },
+      {
+        "sentence": "I saw a rainbow in the sky.",
+        "targetWord": "saw"
+      },
+      {
+        "sentence": "Obey the law to stay safe.",
+        "targetWord": "law"
+      },
+      {
+        "sentence": "I like to eat raw vegetables.",
+        "targetWord": "raw"
+      },
+      {
+        "sentence": "I can draw a picture of a cat.",
+        "targetWord": "draw"
+      },
+      {
+        "sentence": "She sipped her juice through a straw .",
+        "targetWord": "straw"
       }
     ]
   }
