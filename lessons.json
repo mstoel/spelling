@@ -168,6 +168,48 @@
         "sentence": "Please pack your bag.",
         "targetWord": "pack"
       }
+    ],
+    "Lesson 17":[
+      {
+        "sentence": "I will let you go to the park and play.",
+        "targetWord": "let"
+      },
+      {
+        "sentence": "I will get the ball from the toy chest.",
+        "targetWord": "get"
+      },
+      {
+        "sentence": "She got wet when it started raining.",
+        "targetWord": "wet"
+      },
+      {
+        "sentence": "Their pet dog is friendly and cute.",
+        "targetWord": "pet"
+      },
+      {
+        "sentence": "We met our new neighbors today.",
+        "targetWord": "met"
+      },
+      {
+        "sentence": "I like ice cream, especially chocolate.",
+        "targetWord": "like"
+      },
+      {
+        "sentence": "Say hi to him when you see him at school.",
+        "targetWord": "him"
+      },
+      {
+        "sentence": "We will walk into the forest and explore.",
+        "targetWord": "into"
+      },
+      {
+        "sentence": "It's time to eat our delicious lunch.",
+        "targetWord": "time"
+      },
+      {
+        "sentence": "She put her coat on to keep warm.",
+        "targetWord": "her"
+      }
     ]
   },
   "Year 2": {
@@ -197,7 +239,7 @@
         "targetWord": "hard"
       },
       {
-        "sentence": "In this barn there are cows, horses and sheep.",
+        "sentence": "In this barn there are cows and sheep.",
         "targetWord": "barn"
       },
       {
@@ -295,6 +337,48 @@
       {
         "sentence": "She sipped her juice through a straw .",
         "targetWord": "straw"
+      }
+    ],
+    "Lesson 17":[
+      {
+        "sentence": "She can easily bend the flexible straw.",
+        "targetWord": "bend"
+      },
+      {
+        "sentence": "I will send you a postcard from my trip.",
+        "targetWord": "send"
+      },
+      {
+        "sentence": "The wind blew the leaves off the tree.",
+        "targetWord": "wind"
+      },
+      {
+        "sentence": "Use your mind to solve the puzzle.",
+        "targetWord": "mind"
+      },
+      {
+        "sentence": "It's not polite to offend others.",
+        "targetWord": "offend"
+      },
+      {
+        "sentence": "The fourth person in line will go next.",
+        "targetWord": "fourth"
+      },
+      {
+        "sentence": "Can you spell your name for me, please?",
+        "targetWord": "spell"
+      },
+      {
+        "sentence": "Let's share the cake with our friends.",
+        "targetWord": "share"
+      },
+      {
+        "sentence": "This week we will have a special event.",
+        "targetWord": "week"
+      },
+      {
+        "sentence": "Birds need air to breathe and fly.",
+        "targetWord": "air"
       }
     ]
   },
@@ -424,6 +508,48 @@
         "sentence": "We love to travel and explore new places.",
         "targetWord": "travel"
       }
+    ],
+    "Lesson 17":[
+      {
+        "sentence": "He used a bandage to cover his wound.",
+        "targetWord": "bandage"
+      },
+      {
+        "sentence": "Learning a new language can be challenging.",
+        "targetWord": "language"
+      },
+      {
+        "sentence": "It takes courage to face your fears.",
+        "targetWord": "courage"
+      },
+      {
+        "sentence": "She packed her luggage for the weekend trip.",
+        "targetWord": "luggage"
+      },
+      {
+        "sentence": "The storage room is where we keep all our stuff.",
+        "targetWord": "storage"
+      },
+      {
+        "sentence": "Don't forget to take out the garbage on Mondays.",
+        "targetWord": "garbage"
+      },
+      {
+        "sentence": "Please explain how this works to me.",
+        "targetWord": "explain"
+      },
+      {
+        "sentence": "His memory is great; he never forgets anything.",
+        "targetWord": "memory"
+      },
+      {
+        "sentence": "The landscape in the here is breathtaking.",
+        "targetWord": "landscape"
+      },
+      {
+        "sentence": "He can carve beautiful sculptures from wood.",
+        "targetWord": "carve"
+      }
     ]
   },
   "Year 4": {
@@ -525,11 +651,11 @@
         "targetWord": "order"
       },
       {
-        "sentence": "She baked a delicious blueberry muffin.",
+        "sentence": "She baked a delicious blueberry muffin today.",
         "targetWord": "muffin"
       },
       {
-        "sentence": "They carved a scary face on the pumpkin.",
+        "sentence": "They carved a scary face on the pumpkin last night.",
         "targetWord": "pumpkin"
       },
       {
@@ -552,6 +678,48 @@
         "sentence": "With hard work, you can become anything you want.",
         "targetWord": "become"
       }
+    ],
+    "Lesson 17":[
+      {
+        "sentence": "He used a bandage to cover his wound.",
+        "targetWord": "bandage"
+      },
+      {
+        "sentence": "Learning a new language can be challenging.",
+        "targetWord": "language"
+      },
+      {
+        "sentence": "It takes courage to face your fears.",
+        "targetWord": "courage"
+      },
+      {
+        "sentence": "She packed her luggage for the weekend trip.",
+        "targetWord": "luggage"
+      },
+      {
+        "sentence": "The storage room is where we keep all our extra stuff.",
+        "targetWord": "storage"
+      },
+      {
+        "sentence": "Don't forget to take out the garbage on Mondays.",
+        "targetWord": "garbage"
+      },
+      {
+        "sentence": "Please explain how this works to me.",
+        "targetWord": "explain"
+      },
+      {
+        "sentence": "His memory is excellent; he never forgets anything.",
+        "targetWord": "memory"
+      },
+      {
+        "sentence": "The landscape in the countryside is breathtaking.",
+        "targetWord": "landscape"
+      },
+      {
+        "sentence": "He can carve beautiful sculptures from wood.",
+        "targetWord": "carve"
+      }
     ]
   },
   "Year 5": {
@@ -573,7 +741,7 @@
         "targetWord": "hurry"
       },
       {
-        "sentence": "This part of the city is known as the business district.",
+        "sentence": "The business district lies in the middle of the city.",
         "targetWord": "district"
       },
       {
@@ -581,15 +749,15 @@
         "targetWord": "brilliant"
       },
       {
-        "sentence": "A consonant is a speech sound produced by constriction in the vocal tract.",
-        "targetWord": "consonant"
+        "sentence": "All letters in the alphabet are consonants or vowels.",
+        "targetWord": "consonants"
       },
       {
-        "sentence": "The virtual assistant answered all of our questions.",
+        "sentence": "The assistant helped the students with their work.",
         "targetWord": "assistant"
       },
       {
-        "sentence": "She was a talented contestant in the singing competition.",
+        "sentence": "She was a new contestant in the singing competition.",
         "targetWord": "contestant"
       },
       {
@@ -599,53 +767,53 @@
     ],
     "Lesson 2": [
       {
-        "sentence": "He enjoys reading comic books in his free time.",
-        "targetWord": "comic"
+        "sentence": "He was absent from school yesterday.",
+        "targetWord": "absent"
       },
       {
-        "sentence": "The ostrich is a large and flightless bird.",
-        "targetWord": "ostrich"
+        "sentence": "She received an excellent grade on her test.",
+        "targetWord": "excellent"
       },
       {
-        "sentence": "It's not polite to insult others with hurtful words.",
-        "targetWord": "insult"
+        "sentence": "The little child is impatient and can't wait his turn.",
+        "targetWord": "impatient"
       },
       {
-        "sentence": "We need to hurry to catch the bus.",
-        "targetWord": "hurry"
+        "sentence": "Oxygen is an essential element for human life.",
+        "targetWord": "element"
       },
       {
-        "sentence": "This part of the city is known as the business district.",
-        "targetWord": "district"
+        "sentence": "The coffee machine brews an instant cup of coffee.",
+        "targetWord": "instant"
       },
       {
-        "sentence": "She came up with a brilliant idea for the project.",
-        "targetWord": "brilliant"
+        "sentence": "She wore a warm sweater in the cold weather.",
+        "targetWord": "sweater"
       },
       {
-        "sentence": "A consonant is a speech sound produced by constriction in the vocal tract.",
-        "targetWord": "consonant"
+        "sentence": "It is indeed a beautiful and sunny day.",
+        "targetWord": "indeed"
       },
       {
-        "sentence": "The virtual assistant answered all of our questions.",
-        "targetWord": "assistant"
+        "sentence": "Did someone leave their umbrella in the hallway?",
+        "targetWord": "someone"
       },
       {
-        "sentence": "She was a talented contestant in the singing competition.",
-        "targetWord": "contestant"
+        "sentence": "Loud noises can irritate and disrupt concentration.",
+        "targetWord": "irritate"
       },
       {
-        "sentence": "He is an applicant for the job position.",
-        "targetWord": "applicant"
+        "sentence": "He felt ashamed for the grave mistake he had made.",
+        "targetWord": "ashamed"
       }
     ],
     "Lesson 3": [
       {
-        "sentence": "Glass ornaments are breakable and need to be handled with care.",
+        "sentence": "Glass items are breakable and need careful handling.",
         "targetWord": "breakable"
       },
       {
-        "sentence": "A good education is desirable for a successful future.",
+        "sentence": "A good education is desirable for future success.",
         "targetWord": "desirable"
       },
       {
@@ -653,7 +821,7 @@
         "targetWord": "notable"
       },
       {
-        "sentence": "The spicy food was tolerable, but not enjoyable.",
+        "sentence": "Spicy food can be tolerable, but not always enjoyable.",
         "targetWord": "tolerable"
       },
       {
@@ -665,11 +833,11 @@
         "targetWord": "tumble"
       },
       {
-        "sentence": "It's a secret, so don't tell anyone.",
+        "sentence": "It's a secret between you and me, so don't tell anyone.",
         "targetWord": "secret"
       },
       {
-        "sentence": "We can discuss the plan afterwards.",
+        "sentence": "We can discuss the plan afterwards at the meeting.",
         "targetWord": "afterwards"
       },
       {
@@ -679,6 +847,48 @@
       {
         "sentence": "The melody of the song was beautiful and soothing.",
         "targetWord": "melody"
+      }
+    ],
+    "Lesson 17": [
+      {
+        "sentence": "He's always been passionate about running marathons.",
+        "targetWord": "running"
+      },
+      {
+        "sentence": "I keep forgetting my keys in the car.",
+        "targetWord": "forgetting"
+      },
+      {
+        "sentence": "She was rubbing her hands together to keep warm.",
+        "targetWord": "rubbing"
+      },
+      {
+        "sentence": "He was angrily slamming the door shut when he left.",
+        "targetWord": "slamming"
+      },
+      {
+        "sentence": "She enjoys knitting scarves for her friends.",
+        "targetWord": "knitting"
+      },
+      {
+        "sentence": "They are equipping the new office with new chairs.",
+        "targetWord": "equipping"
+      },
+      {
+        "sentence": "She's regretting not taking the test.",
+        "targetWord": "regretting"
+      },
+      {
+        "sentence": "He will inherit the family business.",
+        "targetWord": "inherit"
+      },
+      {
+        "sentence": "All chromosomes contain genetic information.",
+        "targetWord": "chromosomes"
+      },
+      {
+        "sentence": "A gene carries genetic instructions in DNA.",
+        "targetWord": "gene"
       }
     ]
   }
