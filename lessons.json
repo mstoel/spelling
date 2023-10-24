@@ -425,6 +425,262 @@
         "targetWord": "travel"
       }
     ]
+  },
+  "Year 4": {
+    "Lesson 1": [
+      {
+        "sentence": "He pointed at his finger.",
+        "targetWord": "finger"
+      },
+      {
+        "sentence": "I like all fruits except for durian.",
+        "targetWord": "except"
+      },
+      {
+        "sentence": "She couldn't solve the puzzle.",
+        "targetWord": "couldn't"
+      },
+      {
+        "sentence": "Try to catch the ball!",
+        "targetWord": "catch"
+      },
+      {
+        "sentence": "Someone has stolen my wallet.",
+        "targetWord": "stolen"
+      },
+      {
+        "sentence": "Press the button to start the machine.",
+        "targetWord": "button"
+      },
+      {
+        "sentence": "The oxen pulled the plow in the field.",
+        "targetWord": "oxen"
+      },
+      {
+        "sentence": "What's your opinion on this matter?",
+        "targetWord": "opinion"
+      },
+      {
+        "sentence": "Are you certain about your decision?",
+        "targetWord": "certain"
+      },
+      {
+        "sentence": "There are eleven players on the soccer team.",
+        "targetWord": "eleven"
+      }
+    ],
+    "Lesson 2": [
+      {
+        "sentence": "The penguin waddled on the icy shore.",
+        "targetWord": "penguin"
+      },
+      {
+        "sentence": "She wore a dress made of soft cotton.",
+        "targetWord": "cotton"
+      },
+      {
+        "sentence": "Her gown was made of shiny satin.",
+        "targetWord": "satin"
+      },
+      {
+        "sentence": "He is a veteran of the war.",
+        "targetWord": "veteran"
+      },
+      {
+        "sentence": "The tropical island is full of exotic birds.",
+        "targetWord": "tropical"
+      },
+      {
+        "sentence": "The Amazon rainforest is home to many species.",
+        "targetWord": "rainforest"
+      },
+      {
+        "sentence": "This bread is still warm and fresh from the oven.",
+        "targetWord": "fresh"
+      },
+      {
+        "sentence": "They've been friends since they were kids.",
+        "targetWord": "since"
+      },
+      {
+        "sentence": "Maybe we can go to the park later.",
+        "targetWord": "maybe"
+      },
+      {
+        "sentence": "You can do it yourself, or I can help.",
+        "targetWord": "yourself"
+      }
+    ],
+    "Lesson 3": [
+      {
+        "sentence": "She carried a carton of milk from the store.",
+        "targetWord": "carton"
+      },
+      {
+        "sentence": "The villain in the story was very wicked.",
+        "targetWord": "villain"
+      },
+      {
+        "sentence": "He placed an order for pizza and fries.",
+        "targetWord": "order"
+      },
+      {
+        "sentence": "She baked a delicious blueberry muffin.",
+        "targetWord": "muffin"
+      },
+      {
+        "sentence": "They carved a scary face on the pumpkin.",
+        "targetWord": "pumpkin"
+      },
+      {
+        "sentence": "She usually goes to the library after school.",
+        "targetWord": "usually"
+      },
+      {
+        "sentence": "My best friend is always there for me.",
+        "targetWord": "friend"
+      },
+      {
+        "sentence": "I heard a beautiful melody on the radio.",
+        "targetWord": "heard"
+      },
+      {
+        "sentence": "The main character of the book is brave.",
+        "targetWord": "character"
+      },
+      {
+        "sentence": "With hard work, you can become anything you want.",
+        "targetWord": "become"
+      }
+    ]
+  },
+  "Year 5": {
+    "Lesson 1": [
+      {
+        "sentence": "He enjoys reading comic books in his free time.",
+        "targetWord": "comic"
+      },
+      {
+        "sentence": "The ostrich is a large and flightless bird.",
+        "targetWord": "ostrich"
+      },
+      {
+        "sentence": "It's not polite to insult others with hurtful words.",
+        "targetWord": "insult"
+      },
+      {
+        "sentence": "We need to hurry to catch the bus.",
+        "targetWord": "hurry"
+      },
+      {
+        "sentence": "This part of the city is known as the business district.",
+        "targetWord": "district"
+      },
+      {
+        "sentence": "She came up with a brilliant idea for the project.",
+        "targetWord": "brilliant"
+      },
+      {
+        "sentence": "A consonant is a speech sound produced by constriction in the vocal tract.",
+        "targetWord": "consonant"
+      },
+      {
+        "sentence": "The virtual assistant answered all of our questions.",
+        "targetWord": "assistant"
+      },
+      {
+        "sentence": "She was a talented contestant in the singing competition.",
+        "targetWord": "contestant"
+      },
+      {
+        "sentence": "He is an applicant for the job position.",
+        "targetWord": "applicant"
+      }
+    ],
+    "Lesson 2": [
+      {
+        "sentence": "He enjoys reading comic books in his free time.",
+        "targetWord": "comic"
+      },
+      {
+        "sentence": "The ostrich is a large and flightless bird.",
+        "targetWord": "ostrich"
+      },
+      {
+        "sentence": "It's not polite to insult others with hurtful words.",
+        "targetWord": "insult"
+      },
+      {
+        "sentence": "We need to hurry to catch the bus.",
+        "targetWord": "hurry"
+      },
+      {
+        "sentence": "This part of the city is known as the business district.",
+        "targetWord": "district"
+      },
+      {
+        "sentence": "She came up with a brilliant idea for the project.",
+        "targetWord": "brilliant"
+      },
+      {
+        "sentence": "A consonant is a speech sound produced by constriction in the vocal tract.",
+        "targetWord": "consonant"
+      },
+      {
+        "sentence": "The virtual assistant answered all of our questions.",
+        "targetWord": "assistant"
+      },
+      {
+        "sentence": "She was a talented contestant in the singing competition.",
+        "targetWord": "contestant"
+      },
+      {
+        "sentence": "He is an applicant for the job position.",
+        "targetWord": "applicant"
+      }
+    ],
+    "Lesson 3": [
+      {
+        "sentence": "Glass ornaments are breakable and need to be handled with care.",
+        "targetWord": "breakable"
+      },
+      {
+        "sentence": "A good education is desirable for a successful future.",
+        "targetWord": "desirable"
+      },
+      {
+        "sentence": "She made a notable contribution to the project.",
+        "targetWord": "notable"
+      },
+      {
+        "sentence": "The spicy food was tolerable, but not enjoyable.",
+        "targetWord": "tolerable"
+      },
+      {
+        "sentence": "The decision to hire him was questionable at best.",
+        "targetWord": "questionable"
+      },
+      {
+        "sentence": "Be careful not to tumble down the stairs.",
+        "targetWord": "tumble"
+      },
+      {
+        "sentence": "It's a secret, so don't tell anyone.",
+        "targetWord": "secret"
+      },
+      {
+        "sentence": "We can discuss the plan afterwards.",
+        "targetWord": "afterwards"
+      },
+      {
+        "sentence": "The treasure was hidden at the bottom of the sea.",
+        "targetWord": "bottom"
+      },
+      {
+        "sentence": "The melody of the song was beautiful and soothing.",
+        "targetWord": "melody"
+      }
+    ]
   }
 }
 
