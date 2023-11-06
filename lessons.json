@@ -91,15 +91,15 @@
         "targetWord": "than"
       },
       {
-        "sentence": "Where is my book? I can't find it .",
+        "sentence": "Where is my book? I can't find it anywhere.",
         "targetWord": "it"
       },
       {
-        "sentence": "This is my brother. He is nice.",
+        "sentence": "Can he help me with my homework?",
         "targetWord": "he"
       },
       {
-        "sentence": "This is my sister. She is sweet.",
+        "sentence": "Is she good at math or English?",
         "targetWord": "she"
       },
       {
@@ -210,7 +210,91 @@
         "sentence": "She put her coat on to keep warm.",
         "targetWord": "her"
       }
-    ]
+    ],
+    "Lesson 18":[
+      {
+          "sentence": "She made the bed before leaving for work.",
+          "targetWord": "bed"
+      },
+      {
+          "sentence": "I have a red apple and a green apple.",
+          "targetWord": "red"
+      },
+      {
+          "sentence": "He fed the dog before heading out.",
+          "targetWord": "fed"
+      },
+      {
+          "sentence": "The kids love to play on the sled in the winter.",
+          "targetWord": "sled"
+      },
+      {
+          "sentence": "Fred went to the store to buy some groceries.",
+          "targetWord": "Fred"
+      },
+      {
+          "sentence": "She needed more time to complete the project.",
+          "targetWord": "more"
+      },
+      {
+          "sentence": "I have two cats and a dog as pets.",
+          "targetWord": "two"
+      },
+      {
+          "sentence": "Please look before you cross the street.",
+          "targetWord": "look"
+      },
+      {
+          "sentence": "She has a great talent for playing the piano.",
+          "targetWord": "has"
+      },
+      {
+          "sentence": "He had a headache and needed to go to a doctor.",
+          "targetWord": "had"
+      }
+  ],
+    "Lesson 19":[
+      {
+          "sentence": "He bought ten apples at the store.",
+          "targetWord": "ten"
+      },
+      {
+          "sentence": "She used a pen to write a note.",
+          "targetWord": "pen"
+      },
+      {
+          "sentence": "The hen laid six eggs yesterday.",
+          "targetWord": "hen"
+      },
+      {
+          "sentence": "The men were working in the field.",
+          "targetWord": "men"
+      },
+      {
+          "sentence": "I was wondering when you'd arrive.",
+          "targetWord": "when"
+      },
+      {
+          "sentence": "Please write your name on the paper.",
+          "targetWord": "write"
+      },
+      {
+          "sentence": "Let's go to the park this weekend.",
+          "targetWord": "go"
+      },
+      {
+          "sentence": "Can you see the mountain from here?",
+          "targetWord": "see"
+      },
+      {
+          "sentence": "The teacher explained the number system.",
+          "targetWord": "number"
+      },
+      {
+          "sentence": "She loves to read a good book before bed.",
+          "targetWord": "book"
+      }
+  ]
   },
   "Year 2": {
     "Lesson 1": [
@@ -380,7 +464,92 @@
         "sentence": "Birds need air to breathe and fly.",
         "targetWord": "air"
       }
-    ]
+    ],
+    "Lesson 18":[
+      {
+          "sentence": "She sat at her desk to work on her project.",
+          "targetWord": "desk"
+      },
+      {
+          "sentence": "He had to ask the teacher a question.",
+          "targetWord": "ask"
+      },
+      {
+          "sentence": "The elephant had a long tusk and big ears.",
+          "targetWord": "tusk"
+      },
+      {
+          "sentence": "Files were stored on a disk or flashdrive.",
+          "targetWord": "disk"
+      },
+      {
+          "sentence": "Some children still wear a mask to school.",
+          "targetWord": "mask"
+      },
+      {
+          "sentence": "I scored one point playing football yesterday.",
+          "targetWord": "point"
+      },
+      {
+          "sentence": "The family moved into a new house last month.",
+          "targetWord": "house"
+      },
+      {
+          "sentence": "She was able to complete the task in time.",
+          "targetWord": "able"
+      },
+      {
+          "sentence": "You need to multiply the numbers together.",
+          "targetWord": "multiply"
+      },
+      {
+          "sentence": "I bought a new pair of socks.",
+          "targetWord": "pair"
+      }
+  ]
+  ,
+    "Lesson 19":[
+      {
+          "sentence": "He used a magnifying glass to search for clues.",
+          "targetWord": "search"
+      },
+      {
+          "sentence": "The rich man lived in a big house and was very wealthy.",
+          "targetWord": "rich"
+      },
+      {
+          "sentence": "They had so much fun playing in the park.",
+          "targetWord": "much"
+      },
+      {
+          "sentence": "The witch cast a spell with her wand.",
+          "targetWord": "witch"
+      },
+      {
+          "sentence": "She tried to catch the ball, but it slipped.",
+          "targetWord": "catch"
+      },
+      {
+          "sentence": "I received a letter from my friend who lives far away.",
+          "targetWord": "letter"
+      },
+      {
+          "sentence": "His mother baked cookies for his birthday.",
+          "targetWord": "mother"
+      },
+      {
+          "sentence": "He needed to study for his upcoming exams.",
+          "targetWord": "study"
+      },
+      {
+          "sentence": "You can rotate the image to see it from a different angle.",
+          "targetWord": "rotate"
+      },
+      {
+          "sentence": "The students formed a study group to prepare for the test.",
+          "targetWord": "group"
+      }
+  ]  
   },
   "Year 3": {
     "Lesson 1": [
@@ -511,47 +680,132 @@
     ],
     "Lesson 17":[
       {
-        "sentence": "He used a bandage to cover his wound.",
-        "targetWord": "bandage"
+          "sentence": "The mechanic was called to fix and repair the car's engine.",
+          "targetWord": "repair"
       },
       {
-        "sentence": "Learning a new language can be challenging.",
-        "targetWord": "language"
+          "sentence": "The old, creaky building had wooden stairs that creaked.",
+          "targetWord": "stairs"
       },
       {
-        "sentence": "It takes courage to face your fears.",
-        "targetWord": "courage"
+          "sentence": "She likes to plan and prepare her meals in advance.",
+          "targetWord": "prepare"
       },
       {
-        "sentence": "She packed her luggage for the weekend trip.",
-        "targetWord": "luggage"
+          "sentence": "Driving was tough due to the intense sun's glare on the road.",
+          "targetWord": "glare"
       },
       {
-        "sentence": "The storage room is where we keep all our stuff.",
-        "targetWord": "storage"
+          "sentence": "The airplane took me to a different country.",
+          "targetWord": "airplane"
       },
       {
-        "sentence": "Don't forget to take out the garbage on Mondays.",
-        "targetWord": "garbage"
+          "sentence": "He felt comfortable among his old friends at the reunion.",
+          "targetWord": "among"
       },
       {
-        "sentence": "Please explain how this works to me.",
-        "targetWord": "explain"
+          "sentence": "The painting seemed so authentic, resembling something real.",
+          "targetWord": "real"
       },
       {
-        "sentence": "His memory is great; he never forgets anything.",
-        "targetWord": "memory"
+          "sentence": "She was almost finished when the power went out unexpectedly.",
+          "targetWord": "almost"
       },
       {
-        "sentence": "The landscape in the here is breathtaking.",
-        "targetWord": "landscape"
+          "sentence": "Traveling gives insight into understanding different culture.",
+          "targetWord": "culture"
       },
       {
-        "sentence": "He can carve beautiful sculptures from wood.",
-        "targetWord": "carve"
+          "sentence": "It's important to customers to better understand and interact with them.",
+          "targetWord": "interact"
+      } 
+  ],
+    "Lesson 18":[
+      {
+          "sentence": "She woke up early in the peaceful morning to begin her day.",
+          "targetWord": "morning"
+      },
+      {
+          "sentence": "The cowboy rode a magnificent horse across the open field.",
+          "targetWord": "horse"
+      },
+      {
+          "sentence": "She carefully measured and poured the ingredients into the mixing bowl.",
+          "targetWord": "poured"
+      },
+      {
+          "sentence": "The artist painted a striking portrait of an unknown woman.",
+          "targetWord": "portrait"
+      },
+      {
+          "sentence": "He was a genius, born with an incredible talent for music.",
+          "targetWord": "born"
+      },
+      {
+          "sentence": "In the war the soldiers fought bravely on the front lines.",
+          "targetWord": "war"
+      },
+      {
+          "sentence": "She would sometimes go to the park to read her book.",
+          "targetWord": "sometimes"
+      },
+      {
+          "sentence": "The antique vase had sentimental value to the family.",
+          "targetWord": "value"
+      },
+      {
+          "sentence": "The tree cast a long shadow across the grassy meadow.",
+          "targetWord": "shadow"
+      },
+      {
+          "sentence": "The painting showed a beautiful contrast between light and dark.",
+          "targetWord": "contrast"
       }
-    ]
-  },
+  ],  
+  "Lesson 19":[
+    {
+        "sentence": "She arrived here after a long journey across the country.",
+        "targetWord": "here"
+    },
+    {
+        "sentence": "She could hear the distant sound of music playing in the background.",
+        "targetWord": "hear"
+    },
+    {
+        "sentence": "She wore a dress with bare shoulders, embracing the summer warmth.",
+        "targetWord": "bare"
+    },
+    {
+        "sentence": "The bear was a majestic creature in its natural habitat.",
+        "targetWord": "bear"
+    },
+    {
+        "sentence": "The path this way leads to the secret garden.",
+        "targetWord": "way"
+    },
+    {
+        "sentence": "We have to weigh our luggage before it goes on the plane.",
+        "targetWord": "weigh"
+    },
+    {
+        "sentence": "He observed the stars through the telescope at the observatory.",
+        "targetWord": "telescope"
+    },
+    {
+        "sentence": "Using a lens, you can magnify the details of small objects.",
+        "targetWord": "magnify"
+    },
+    {
+        "sentence": "The calm lake began to reflect the surrounding trees as the sun set.",
+        "targetWord": "reflect"
+    },
+    {
+        "sentence": "The antique mirror hung on the wall of the old house.",
+        "targetWord": "mirror"
+    }
+]
+},
+
   "Year 4": {
     "Lesson 1": [
       {
@@ -720,7 +974,91 @@
         "sentence": "He can carve beautiful sculptures from wood.",
         "targetWord": "carve"
       }
-    ]
+    ],
+    "Lesson 18":[
+      {
+          "sentence": "He placed the wedge to keep the door open.",
+          "targetWord": "wedge"
+      },
+      {
+          "sentence": "The cat approached the edge of the table cautiously.",
+          "targetWord": "edge"
+      },
+      {
+          "sentence": "She replaced the printer cartridge herself.",
+          "targetWord": "cartridge"
+      },
+      {
+          "sentence": "She made a warm bowl of porridge for breakfast.",
+          "targetWord": "porridge"
+      },
+      {
+          "sentence": "The bridge connected the two sides of the river.",
+          "targetWord": "bridge"
+      },
+      {
+          "sentence": "His test scores were average, neither exceptional nor poor.",
+          "targetWord": "average"
+      },
+      {
+          "sentence": "He gave a caution about the slippery surface.",
+          "targetWord": "caution"
+      },
+      {
+          "sentence": "A rhombus has four sides of equal length.",
+          "targetWord": "rhombus"
+      },
+      {
+          "sentence": "Solving the equation required a good understanding of math.",
+          "targetWord": "equation"
+      },
+      {
+          "sentence": "He flew back home in his private jet.",
+          "targetWord": "private"
+      }
+  ],
+  "Lesson 19":[
+    {
+        "sentence": "She prefers to be alone when she reads.",
+        "targetWord": "alone"
+    },
+    {
+        "sentence": "The ghost appeared in the old house at midnight.",
+        "targetWord": "ghost"
+    },
+    {
+        "sentence": "The robot helped with household chores.",
+        "targetWord": "robot"
+    },
+    {
+        "sentence": "The toaster popped up the bread when it was ready.",
+        "targetWord": "toaster"
+    },
+    {
+        "sentence": "The owner of the company was always busy with meetings.",
+        "targetWord": "owner"
+    },
+    {
+        "sentence": "The dragon breathed fire and flew across the sky.",
+        "targetWord": "dragon"
+    },
+    {
+        "sentence": "The castle was surrounded by a large moat.",
+        "targetWord": "castle"
+    },
+    {
+        "sentence": "The knight rode into battle on his valiant steed.",
+        "targetWord": "knight"
+    },
+    {
+        "sentence": "The princess wore a beautiful gown at the royal ball.",
+        "targetWord": "princess"
+    },
+    {
+        "sentence": "The golden treasure was hidden in the ancient ruins.",
+        "targetWord": "golden"
+    }
+]
   },
   "Year 5": {
     "Lesson 1": [
@@ -850,6 +1188,86 @@
       }
     ],
     "Lesson 17": [
+      {
+        "sentence": "He's always been passionate about running marathons.",
+        "targetWord": "running"
+      },
+      {
+        "sentence": "I keep forgetting my keys in the car.",
+        "targetWord": "forgetting"
+      },
+      {
+        "sentence": "She was rubbing her hands together to keep warm.",
+        "targetWord": "rubbing"
+      },
+      {
+        "sentence": "He was angrily slamming the door shut when he left.",
+        "targetWord": "slamming"
+      },
+      {
+        "sentence": "She enjoys knitting scarves for her friends.",
+        "targetWord": "knitting"
+      },
+      {
+        "sentence": "They are equipping the new office with new chairs.",
+        "targetWord": "equipping"
+      },
+      {
+        "sentence": "She's regretting not taking the test.",
+        "targetWord": "regretting"
+      },
+      {
+        "sentence": "He will inherit the family business.",
+        "targetWord": "inherit"
+      },
+      {
+        "sentence": "All chromosomes contain genetic information.",
+        "targetWord": "chromosomes"
+      },
+      {
+        "sentence": "A gene carries genetic instructions in DNA.",
+        "targetWord": "gene"
+      }
+    ],
+    "Lesson 18": [
+      {
+          "sentence": "She is tired of complaining about the same issue repeatedly.",
+          "targetWord": "complaining"
+      },
+      {
+          "sentence": "It's frustrating to face technical issues without a solution.",
+          "targetWord": "frustrating"
+      },
+      {
+          "sentence": "The project was exhausting but fulfilling in the end.",
+          "targetWord": "exhausting"
+      },
+      {
+          "sentence": "The detective was investigating the mysterious disappearance.",
+          "targetWord": "investigating"
+      },
+      {
+          "sentence": "They are evaluating the performance of the new software.",
+          "targetWord": "evaluating"
+      },
+      {
+          "sentence": "Eating carbohydrates are an essential part of a balanced diet.",
+          "targetWord": "carbohydrates"
+      },
+      {
+          "sentence": "They traveled throughout the country to explore its beauty.",
+          "targetWord": "throughout"
+      },
+      {
+          "sentence": "Eating protein is crucial for muscle growth and repair.",
+          "targetWord": "protein"
+      },
+      {
+          "sentence": "Counting calories can help with weight management.",
+          "targetWord": "calories"
+      }
+  ],
+    "Lesson 19": [
       {
         "sentence": "He's always been passionate about running marathons.",
         "targetWord": "running"
