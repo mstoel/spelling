@@ -11,8 +11,14 @@
         <div class="container">
             <h1>Choose a Worksheet</h1>
             <div class="worksheet-container">
-                <div class="worksheet-option" id="worksheet1">
+                <div class="worksheet-option" id="worksheet1" data-tooltip="Read the word and sentence, copy it correctly on the line below.">
                     <img src="/images/worksheet1.png" alt="Worksheet 1">
+                </div>
+                <div class="worksheet-option" id="worksheet2" data-tooltip="Copy the word twice and translate it in your own language.">
+                    <img src="/images/worksheet2.png" alt="Worksheet 2">
+                </div>
+                <div class="worksheet-option" id="worksheet3" data-tooltip="First unscramble the words, after unscramble the sentences..">
+                    <img src="/images/worksheet2.png" alt="Worksheet 3">
                 </div>
                 <!-- You can add more worksheet options here as needed -->
             </div>
@@ -36,11 +42,18 @@
             // Use these parameters to construct links for the worksheets
             const worksheet1Link = `/worksheets/worksheet1.html?year=${selectedYear}&lesson=${selectedLesson}`;
             const worksheet2Link = `/worksheets/worksheet2.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            const worksheet3Link = `/worksheets/worksheet3.html?year=${selectedYear}&lesson=${selectedLesson}`;
             // Add more worksheets as needed
 
             // Add click event listeners to the worksheet options to navigate to the worksheets
             document.getElementById('worksheet1').addEventListener('click', () => {
                 window.location.href = worksheet1Link;
+            });
+            document.getElementById('worksheet2').addEventListener('click', () => {
+                window.location.href = worksheet2Link;
+            });
+            document.getElementById('worksheet3').addEventListener('click', () => {
+                window.location.href = worksheet3Link;
             });
             // Add more listeners for other worksheets if needed
         });

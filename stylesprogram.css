@@ -163,3 +163,28 @@ select {
     max-width: 800px; /* Limit the width for readability */
     margin: 0 auto; /* Center the container on the page */
 }
+
+.worksheet-option:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background-color: rgb(76, 152, 200);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    opacity: 1;
+    pointer-events: none;
+    visibility: visible;
+}
+
+.worksheet-option::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
