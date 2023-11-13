@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesprogram.css"> <!-- Include your stylesheet -->
+    <title>Worksheets</title>
+</head>
+<body>
+    <div class="full-page-container">
+        <div class="container">
+            <h1>Choose how you want to practice the words.</h1>
+            <div class="worksheet-container">
+                <div class="worksheet-option" id="practice" data-tooltip="Listen to the audio and write the words.">
+                    <img src="/images/practice.png" alt="practice">
+                </div>
+                <div class="worksheet-option" id="test" data-tooltip="Check if you memorized all the words.">
+                    <img src="/images/test.png" alt="test">
+                </div>
+                <div class="worksheet-option" id="slideshow" data-tooltip="Slideshow of the words with supporting sentences.">
+                    <img src="/images/slideshow.png" alt="slideshow">
+                </div>
+                <!-- You can add more worksheet options here as needed -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Function to get URL parameters
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                const results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
+
+            // Get the year and lesson from URL parameters
+            const selectedYear = getUrlParameter('year');
+            const selectedLesson = getUrlParameter('lesson');
+
+            // Use these parameters to construct links for the worksheets
+            const games1Link = `games/practice.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            const games2Link = `games/test.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            const games3Link = `games/slideshow.html?year=${selectedYear}&lesson=${selectedLesson}`;
+            // Add more worksheets as needed
+
+            // Add click event listeners to the worksheet options to navigate to the worksheets
+            document.getElementById('practice').addEventListener('click', () => {
+                window.location.href = games1Link;
+            });
+            document.getElementById('test').addEventListener('click', () => {
+                window.location.href = games2Link;
+            });
+            document.getElementById('slideshow').addEventListener('click', () => {
+                window.location.href = games3Link;
+            });
+            // Add more listeners for other worksheets if needed
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+

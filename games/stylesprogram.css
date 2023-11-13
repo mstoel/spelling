@@ -1,0 +1,190 @@
+/* Common styles for lessons */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+/* Styles specific to the menu */
+.fixed-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0; /* Center horizontally */
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: left; /* Change to left for the menu */
+    z-index: 1;
+    /*overflow-y: auto; /* Add vertical scrollbar if needed */
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.full-page-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    /*overflow-y: auto; /* Add vertical scrollbar if needed */
+}
+
+.content {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.sentence {
+    font-size: 18px;
+}
+
+.userWord {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.checkButton {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.hidden {
+    color: transparent;
+}
+
+.hidden-word {
+    color: transparent;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#lessonIframe {
+    width: 100%;
+    /*height: calc(100vh - 40px); /* Use the viewport height minus the margin-top */
+    height: 100%;
+    border: none;
+}
+
+.audio-button {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    cursor: pointer; /* Add a pointer cursor to indicate it's clickable */
+    margin-right: 10px; /* Add space to the right of the audio button */
+}
+
+.exercise-number {
+    font-size: 25px; /* Adjust the size as needed */
+    margin-right: 5px; /* Adjust the space between the number and audio button */
+    content: "."; /* Add a '.' after the number */
+}
+
+/* Add styles for the check images */
+.check-image {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+}
+
+/* Styles for the .tick-cross-hidden class */
+.tick-cross-hidden {
+    display: none;
+}
+
+/* Add these styles for worksheet thumbnails */
+
+.worksheet-container {
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap; /* Allow thumbnails to wrap to the next line */
+    justify-content: flex-start; /* Align thumbnails to the left */
+    gap: 20px; /* Add some space between thumbnails */
+}
+
+.worksheet-option {
+    margin: 10px;
+    width: 170px; /* Set the width to 170px */
+    height: 220px; /* Set the height to 220px */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    background-color: #fff; /* Set a white background for the thumbnails */
+}
+
+.worksheet-option:hover {
+    transform: scale(0.9); /* Adjust the scaling factor as needed */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.worksheet-option img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Apply lesson-container styles to the worksheet */
+
+.lesson-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-width: 800px; /* Limit the width for readability */
+    margin: 0 auto; /* Center the container on the page */
+}
+
+.worksheet-option:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background-color: rgb(76, 152, 200);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    opacity: 1;
+    pointer-events: none;
+    visibility: visible;
+}
+
+.worksheet-option::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
+}

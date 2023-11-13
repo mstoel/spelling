@@ -1,0 +1,54 @@
+/* CSS for Read Words page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+    cursor: pointer;
+}
+
+.word-text {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+button {
+    padding: 8px 16px;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
+
+.word-text {
+    margin-top: 10px;
+    font-size: 35px; /* Updated font size */
+    color: #333;
+    font-family: 'Comic Sans MS', cursive; /* Set font-family to Comic Sans */
+}

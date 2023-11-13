@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesprogram.css">
+    <style>
+        .audio-button {
+            display: inline-block;
+            width: 19px;
+            height: 19px;
+            padding: 0;
+            margin-right: 5px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+
+        .audio-button img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .audio-container {
+        display: flex;
+        align-items: center;
+        gap: 8px; /* Adjust the gap as needed for spacing between the button and the sentence */
+        }
+    </style>
+    <title>Spelling Practice</title>
+</head>
+<body>
+    <div class="full-page-container">
+        <div class="container" id="exercise-container">
+            <p class="instruction">Practice Instructions: Click the sentence to listen, then write the word. If you're wrong twice, the word will appear for copying.</p>
+            <!-- Exercises will be populated here using JavaScript -->
+        </div>
+    </div>
+    <script src="practice.js"></script>
+</body>
+</html>
+
+

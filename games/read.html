@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Read Words</title>
+    <link rel="stylesheet" href="read.css">
+</head>
+<body>
+    <div class="container">
+        <div class="image-container">
+            <img id="displayImage" src="" onclick="toggleText()">
+            <p id="displayText" class="word-text" style="display: none;"></p>
+            <div class="button-container">
+                <button id="prevButton" onclick="showPrevWord()">Previous Word</button>
+                <button id="nextButton" onclick="showNextWord()">Next Word</button>
+            </div>
+            <div class="button-container">
+                <button id="showWordsOnly">Only Show Words</button>
+                <button id="showPicturesOnly">Only Show Pictures</button>
+                <button id="showWordsAndPictures">Show Words and Pictures</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="read.js"></script>
+</body>
+</html>
+
+
+
