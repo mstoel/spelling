@@ -42,6 +42,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Append slide to the slideshow wrapper
                 slideshowWrapper.appendChild(slide);
+
+                // Add click event listeners for text-to-speech
+                targetWord.addEventListener('click', () => {
+                    speakText(exercise.targetWord);
+                });
+
+                sentence.addEventListener('click', () => {
+                    speakText(exercise.sentence);
+                });
             });
 
             // Initialize Swiper
@@ -105,11 +114,22 @@ document.addEventListener('DOMContentLoaded', () => {
                     sentence.style.fontSize = sentenceSizeRange.value + 'px';
                 });
             });
+
+            // Function to speak text using the Web Speech API
+            function speakText(text) {
+                const speech = new SpeechSynthesisUtterance();
+                speech.text = text;
+                speech.lang = 'en-GB'; // Use a clear female British voice
+                speech.rate = 1.0; // Adjust the speech rate as needed
+                speech.volume = 1.0; // Adjust the speech volume as needed
+                window.speechSynthesis.speak(speech);
+            }
         })
         .catch(error => {
             console.error('Error loading JSON data:', error);
         });
 });
+
 
 
 
