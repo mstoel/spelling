@@ -142,7 +142,7 @@ select {
 }
 
 .worksheet-option:hover {
-    transform: scale(0.9); /* Adjust the scaling factor as needed */
+    transform: scale(1.1); /* Adjust the scaling factor as needed */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 

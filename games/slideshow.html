@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="slideshow.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <title>Spelling Practice</title>
+</head>
+<body>
+    <div class="full-page-container">
+        <!-- Slideshow container with overflow hidden -->
+        <div class="slideshow-container">
+            <!-- Slideshow wrapper with swiper-container -->
+            <div id="slideshow-wrapper" class="swiper-container">
+                <div class="swiper-wrapper">
+                    <!-- Slides will be populated here using JavaScript -->
+                </div>
+                <!-- Pagination for swiper -->
+                <div class="swiper-pagination"></div>
+                <!-- Navigation arrows -->
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+
+        <!-- Settings container -->
+        <div class="settings-container">
+            <div class="box word">
+                <label>
+                    <span><b>WORDS</b></span>
+                    <span>On/Off</span>
+                    <input type="checkbox" id="showTargetWord" checked>
+                </label>
+                <label>
+                    <span>Size:</span>
+                    <input type="range" id="fontSizeRange" min="50" max="200" value="100">
+                </label>
+            </div>
+            <div class="box">
+                <label>
+                    <span><b>SENTENCE</b></span>
+                    <span>On/Off</span>
+                    <input type="checkbox" id="showSentence" checked>
+                </label>
+                <label>
+                    <span>Size:</span>
+                    <input type="range" id="sentenceSizeRange" min="20" max="80" value="30">
+                </label>
+            </div>
+        </div>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="slideshow.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+

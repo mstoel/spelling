@@ -188,3 +188,15 @@ select {
     opacity: 0;
     transition: opacity 0.3s;
 }
+
+.audio-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Add these styles for the fixed size of the slideshow frame */
+#slideshow-wrapper {
+    max-height: 400px; /* Adjust the height as needed */
+    overflow: hidden;
+}
+

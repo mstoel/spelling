@@ -1,0 +1,171 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.full-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px; /* Set a fixed height */
+}
+
+.slideshow-container {
+    width: 70%; /* Adjust the width as needed */
+    margin: auto;
+    overflow: hidden;
+    position: relative; /* Add relative positioning */
+    border: 2px solid #ccc; /* Add a border for better visibility */
+}
+
+.swiper-container {
+    width: 100%;
+    background-color: white; /* White background for the frame */
+    height: 400px; /* Set the height to 400px */
+}
+
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    text-align: center;
+    padding: 20px; /* Add padding for better visibility */
+    box-sizing: border-box;
+    position: relative; /* Add relative positioning */
+    height: 100%; /* Make slides fill the container */
+}
+
+.sentence, .target-word {
+    font-family: 'Gill Sans Infant Std', sans-serif; /* Set font family to Gill Sans Infant Std */
+}
+
+.supporting-sentence {
+    margin-top: 20px;
+    font-family: 'Gill Sans Infant Std', sans-serif;
+    position: absolute;
+    top: 70%; /* Adjust the top position as needed */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: font-size 0.5s;
+}
+
+.settings-container {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.target-word {
+    font-size: 100px; /* Default font size, adjust as needed */
+    color: black; /* Set text color to black */
+    transition: font-size 0.5s; /* Add transition for smooth size change */
+    position: absolute; /* Position the target word absolutely */
+    top: 50%; /* Set the top position to 50% */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center both horizontally and vertically */
+    z-index: 1; /* Ensure the target word is above other elements */
+}
+
+.sentence {
+    margin-top: 20px; /* Adjust the margin between the target word and sentence */
+    font-family: 'Gill Sans Infant Std', sans-serif; /* Set font family to Gill Sans Infant Std */
+    position: absolute; /* Position the sentence absolutely */
+    top: 70%; /* Set the top position to 70% */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center both horizontally and vertically */
+    transition: font-size 0.5s; /* Add transition for smooth size change */
+}
+
+.swiper-pagination {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: 2px solid #ccc;
+    font-family: 'Gill Sans Infant Std', sans-serif; /* Set font family to Gill Sans Infant Std */
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    max-height: 50px; /* Adjust the height as needed */
+    display: flex;
+    flex-direction: column;
+}
+
+.box label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px; /* Reduce the margin here */
+    width: 100%;
+}
+
+.box label span {
+    width: 20%; /* Adjust the width as needed */
+    font-family: 'Gill Sans Infant Std', sans-serif; /* Set font family to Gill Sans Infant Std */
+    font-size: 12px; /* Adjust the font size as needed */
+    color: black; /* Set text color to black */
+}
+.box label span:first-child {
+    font-weight: bold;
+    width: 50%; /* Adjust the width as needed */
+}
+
+.box label span:last-child {
+    width: 50%; /* Adjust the width as needed */
+    text-align: right; /* Right-align the "On/Off" text */
+}
+
+.box label input {
+    width: auto; /* Allow the checkbox to take its natural width */
+    font-family: 'Gill Sans Infant Std', sans-serif; /* Set font family to Gill Sans Infant Std */
+    color: black; /* Set text color to black */
+}
+
+.settings-container {
+    display: flex;
+    text-align: center;
+    margin-top: 3px; /* Adjust the margin as needed */
+}
+
+.box.word label span:first-child {
+    font-weight: bold;
+}
+
+
+/* Your existing CSS styles... */
+
+.box.word label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px; /* Reduce the margin here */
+    width: 100%;
+}
+
+.box.word label span:first-child {
+    font-weight: bold;
+    width: 50%; /* Adjust the width as needed */
+}
+
+.box.word label span:last-child {
+    width: 30%; /* Adjust the width as needed */
+    text-align: right; /* Right-align the "On/Off" text */
+}
+
+.box.word label input {
+    width: auto; /* Allow the checkbox to take its natural width */
+}
+
+
+
+
+
+
+
+
