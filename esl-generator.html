@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ESL Worksheet Generator</title>
+  <link rel="stylesheet" href="esl-generator.css">
+</head>
+<body>
+  <main class="app">
+    <h1>ESL Worksheet Generator</h1>
+
+    <section class="controls">
+      <label for="levelSelect">Level</label>
+      <select id="levelSelect">
+        <option>Pre A1</option>
+        <option>A1</option>
+        <option>A2</option>
+        <option>B1</option>
+        <option>B2</option>
+        <option>C1</option>
+        <option>C2</option>
+      </select>
+
+      <label for="posSelect">Part of Speech</label>
+      <select id="posSelect">
+        <option value="noun">noun</option>
+        <option value="verb">verb</option>
+        <option value="adjective">adjective</option>
+      </select>
+
+      <label for="typeSelect">Worksheet Type</label>
+      <select id="typeSelect">
+        <option value="word search">word search</option>
+        <option value="fill in the blank">fill in the blank</option>
+      </select>
+
+      <label class="toggle" for="imagesToggle">
+        <input type="checkbox" id="imagesToggle" />
+        Include images
+      </label>
+
+      <button id="generateBtn">Generate Worksheet</button>
+      <button id="pdfBtn" disabled>Export A4 PDF</button>
+    </section>
+
+    <section id="worksheetPreview" class="worksheet" aria-live="polite"></section>
+  </main>
+
+  <script src="worksheets/jspdf.min.js"></script>
+  <script src="esl-generator.js"></script>
+</body>
+</html>

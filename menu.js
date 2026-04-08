@@ -4,12 +4,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const worksheetsButton = document.getElementById('worksheetsButton');
     const gamesButton = document.getElementById('gamesButton');
     const lessonIframe = document.getElementById('lessonIframe');
+    const eslGeneratorButton = document.getElementById('eslGeneratorButton');
 
     let lessonsData;
 
     yearDropdown.addEventListener('change', populateLessonOptions);
     worksheetsButton.addEventListener('click', loadWorksheets);
     gamesButton.addEventListener('click', loadGames);
+    eslGeneratorButton.addEventListener('click', loadEslGenerator);
 
     fetchAndPopulate();
 
@@ -52,6 +54,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const gamesPage = `games.html?year=${selectedYear}&lesson=${selectedLesson}`;
 
         lessonIframe.src = gamesPage;
+    }
+
+    function loadEslGenerator() {
+        lessonIframe.src = 'esl-generator.html';
     }
 
     function fetchAndPopulate() {
